@@ -9,7 +9,7 @@
 This is a simple full-stack application that retrieves a list of fruits from a Django backend and displays them in a static frontend.
 
 ### 📂 Project Structure
-As per my mentor's recommendation, the project is divided into backend and frontend:
+The project is divided into backend and frontend:
 - **fruit_app_backend/**: Contains the Django project (`core`) and the app (`fruit_app`).
 - **fruit_app_frontend/**: Contains the client side with `index.html` and `script.js`.
 
@@ -29,7 +29,7 @@ As per my mentor's recommendation, the project is divided into backend and front
 Dies ist eine Fullstack-Anwendung, die eine Liste von Früchten aus einem Django-Backend abruft und in einem statischen Frontend darstellt.
 
 ### 📂 Projektstruktur
-Gemäß der Empfehlung meines Mentors ist das Projekt in Backend und Frontend unterteilt:
+Das Projekt ist in Backend und Frontend unterteilt:
 - **fruit_app_backend/**: Enthält das Django-Projekt (`core`) und die App (`fruit_app`).
 - **fruit_app_frontend/**: Enthält die Client-Seite mit `index.html` und `script.js`.
 
